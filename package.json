@@ -1,0 +1,26 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "myagoo's json resume",
+  "author": "Benjamin Millagou <millagou.benjamin@gmail.com>",
+  "private": true,
+  "scripts": {
+    "resume": "resume"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myagoo/resume.git"
+  },
+  "keywords": [
+    "json",
+    "resume"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myagoo/resume/issues"
+  },
+  "homepage": "https://github.com/myagoo/resume",
+  "dependencies": {
+    "resume-cli": "^0.3.13"
+  }
+}
