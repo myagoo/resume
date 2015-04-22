@@ -14,175 +14,150 @@
       "countryCode": "FR",
       "region": "France"
     },
-    "profiles": [
-      {
-        "network": "Github",
-        "username": "myagoo",
-        "url": "https://github.com/myagoo"
-      }
-    ]
+    "profiles": [{
+      "network": "Github",
+      "username": "myagoo",
+      "url": "https://github.com/myagoo"
+    }]
   },
-  "work": [
-    {
-      "company": "Living Objects",
-      "position": "Développeur",
-      "website": "http://www.livingobjects.com/",
-      "startDate": "2011-09-20",
-      "endDate": "",
-      "summary": "Participation à l'élaboration de nombreuses applications liées à l'univers des fournisseurs d'accès.
-      ",
-      "highlights": [
-        "Nombreuses contributions sur le framework maison (basé sur Symfony 2)",
-        "Élaboration d'un système de widgets générique aux développeurs de déclarer permettant la création de rapports  personnalisée destinées"
-      ]
-    },
-    {
-      "company": "MPO Informatique",
-      "position": "Développeur",
-      "website": "http://www.livingobjects.com/",
-      "startDate": "2011-09-20",
-      "endDate": "",
-      "summary": "Création d'une application web de gestion de commerce complète pour l'ouverture d'une boutique de vente et réparation de pièces informatique dans le cadre de la licence en alternance.
-      L'application permet la gestion des clients, des stocks, de la caisse, des interventions, ",
-      "highlights": [
-        "Création d'un squelette ",
-        "Élaboration d'un système de widgets générique aux développeurs de déclarer permettant la création de rapports  personnalisée destinées"
-      ]
-    }
-  ],
+  "work": [{
+    "company": "Living Objects",
+    "position": "Développeur",
+    "website": "http://www.livingobjects.com/",
+    "startDate": "2011-09-20",
+    "summary": "Participation à l'élaboration de nombreuses applications liées à l'univers des fournisseurs d'accès.",
+    "highlights": [
+      "Nombreuses contributions sur le framework maison (basé sur Symfony 2)",
+      "Élaboration d'un système de widgets générique aux développeurs de déclarer permettant la création de rapports  personnalisée destinées"
+    ]
+  }, {
+    "company": "MPO Informatique",
+    "position": "Développeur",
+    "website": "http://www.livingobjects.com/",
+    "startDate": "2010-09-01",
+    "endDate": "2011-06-01",
+    "summary": "Création d'une application web de gestion de commerce complète pour l'ouverture d'une boutique de vente et réparation de pièces informatique dans le cadre de la licence en alternance. L'application permet la gestion des clients, des stocks, de la caisse, des interventions, ",
+    "highlights": [
+      "Création d'un squelette ",
+      "Élaboration d'un système de widgets générique aux développeurs de déclarer permettant la création de rapports  personnalisée destinées"
+    ]
+  }],
   "volunteer": [],
-  "education": [
-    {
-      "institution": "IUT de Blagnac",
-      "area": "Analyste Programmeur Spécialisé en Ingénierie des Objets (APSIO)",
-      "studyType": "Licence Professionnelle en alternance",
-      "startDate": "2010",
-      "endDate": "2011",
-      "gpa": "",
-      "courses": [
-        "POO",
-        "PHP",
-        "CSS",
-        "HTML",
-        "Linux",
-        ""
-      ]
-    },
-    {
-      "institution": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
-      "gpa": "",
-      "courses": []
-    }
-  ],
+  "education": [{
+    "institution": "IUT de Blagnac",
+    "area": "Analyste Programmeur Spécialisé en Ingénierie des Objets (APSIO)",
+    "studyType": "Licence Professionnelle en alternance",
+    "startDate": "2010-09-01",
+    "endDate": "2011-06-01",
+    "gpa": "",
+    "courses": [
+      "POO",
+      "PHP",
+      "CSS",
+      "HTML",
+      "Linux",
+      ""
+    ]
+  }, {
+    "institution": "Lycée Polyvalent Paul Sabatier à Carcassonne",
+    "area": "BTS Informatique de Gestion Option dévelopement",
+    "studyType": "",
+    "startDate": "2008-06-01",
+    "endDate": "2010-09-01",
+    "gpa": "",
+    "courses": []
+  }],
   "awards": [],
   "publications": [],
-  "skills": [
-    {
-      "name": "Langages",
-      "level": "master",
-      "keywords": [
-        "Javascript (ES6 ready)",
-        "CSS (flexbox ready)",
-        "PHP (5.3)",
-        "HTML"
-      ]
-    },
-    {
-      "name": "Outils",
-      "level": "advanced",
-      "keywords": [
-        "webpack",
-        "npm",
-        "babel",
-        "git",
-        "docker"
-      ]
-    },
-    {
-      "name": "Librairies",
-      "level": "master",
-      "keywords": [
-        "React",
-        "Angular",
-        "jQuery",
-        "d3",
-        "leaflet",
-        "Promise",
-        "Flux (reflux)",
-        "Symfony",
-        "Doctrine"
-      ]
-    },
-    {
-      "name": "Système",
-      "level": "advanced",
-      "keywords": [
-        "Linux",
-        "Windows"
-      ]
-    },
-    {
-      "name": "Méthodes",
-      "level": "intermediate",
-      "keywords": [
-        "Scrum",
-        "POO",
-        ""
-      ]
-    },
-    {
-      "name": "Javascript",
-      "level": "master",
-      "keywords": [
-        "ES6",
-        "Babel",
-        "webpack",
-        "Angular",
-        "React",
-        "Flux",
-        "Promise",
-        "jQuery"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Francais",
-      "fluency": "Natif"
-    },
-    {
-      "language": "Anglais",
-      "fluency": "Courant"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Music",
-      "keywords": [
-        "iPod classic <3",
-        ""
-      ]
-    },
-    {
-      "name": "Ride",
-      "keywords": [
-        "Skate",
-        "Longboard",
-        "Cruiser"
-      ]
-    },
-    {
-      "name": "Ride",
-      "keywords": [
-        "Skate",
-        "Longboard",
-        "Cruiser"
-      ]
-    }
-  ],
+  "skills": [{
+    "name": "Langages",
+    "level": "master",
+    "keywords": [
+      "Javascript (ES6 ready)",
+      "CSS (flexbox ready)",
+      "PHP (5.3)",
+      "HTML"
+    ]
+  }, {
+    "name": "Outils",
+    "level": "advanced",
+    "keywords": [
+      "webpack",
+      "npm",
+      "babel",
+      "git",
+      "docker"
+    ]
+  }, {
+    "name": "Librairies",
+    "level": "master",
+    "keywords": [
+      "React",
+      "Angular",
+      "jQuery",
+      "d3",
+      "leaflet",
+      "Promise",
+      "Flux (reflux)",
+      "Symfony",
+      "Doctrine"
+    ]
+  }, {
+    "name": "Système",
+    "level": "advanced",
+    "keywords": [
+      "Linux",
+      "Windows"
+    ]
+  }, {
+    "name": "Méthodes",
+    "level": "intermediate",
+    "keywords": [
+      "Scrum",
+      "POO",
+      ""
+    ]
+  }, {
+    "name": "Javascript",
+    "level": "master",
+    "keywords": [
+      "ES6",
+      "Babel",
+      "webpack",
+      "Angular",
+      "React",
+      "Flux",
+      "Promise",
+      "jQuery"
+    ]
+  }],
+  "languages": [{
+    "language": "Francais",
+    "fluency": "Natif"
+  }, {
+    "language": "Anglais",
+    "fluency": "Courant"
+  }],
+  "interests": [{
+    "name": "Music",
+    "keywords": [
+      "iPod classic <3",
+      ""
+    ]
+  }, {
+    "name": "Ride",
+    "keywords": [
+      "Skate",
+      "Longboard",
+      "Cruiser"
+    ]
+  }, {
+    "name": "Ride",
+    "keywords": [
+      "Skate",
+      "Longboard",
+      "Cruiser"
+    ]
+  }],
   "references": []
 }
