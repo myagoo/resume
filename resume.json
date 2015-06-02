@@ -6,7 +6,7 @@
     "email": "millagou.benjamin@gmail.com",
     "phone": "06 27 99 37 93",
     "website": "",
-    "summary": "Passionné du web et de programmation, j'aime autant résoudre des problèmes d'algorithmie que d'ergonomie. Au fil du temps, j'ai appris à éviter les pièges de ce langage anciennement mal aimé qu'est le JavaScript et j'en suis aujourd'hui un grand fervent, promis.then() !",
+    "summary": "Passionné du web et de programmation, j'aime autant résoudre des problèmes d'algorithmie que d'ergonomie. Au fil du temps, j'ai appris à éviter les pièges de ce langage anciennement mal aimé qu'est le JavaScript et j'en suis aujourd'hui un grand fervent.",
     "location": {
       "address": "160 grande rue St-Michel",
       "postalCode": "31400",
@@ -26,13 +26,13 @@
     "website": "http://www.livingobjects.com/",
     "startDate": "2011-09-20",
     "endDate": null,
-    "summary": "Participation à l'élaboration de nombreuses applications liées à l'univers technique des fournisseurs d'accès (collecte, visualisation et analyse de compteurs issues du parc fixe et mobile de l'opérateur). J'ai été amené à réaliser un grand nombre de modules, souvent de la conception à leurs mises à jour, en passant par les réunions client, les déploiement mais encore la mise en place collecte de référentiel.",
+    "summary": "Participation à l'élaboration de nombreuses applications liées à l'univers technique des fournisseurs d'accès (collecte, visualisation et analyse de compteurs issues du parc fixe et mobile de l'opérateur). J'ai été amené à réaliser un grand nombre de modules, souvent de la conception à leurs mises à jour, en passant par les réunions client, les déploiements mais encore la mise en place collecte de référentiel.",
     "highlights": [
       "De nombreuses compétences acquises dans des domaines variés grâce à l'hétérogéniété des projets",
       "Plusieurs contributions sur le framework PHP maison (basé sur Symfony 2) dont la mise en place d'un système de connections partagées, ce qui a pu réduire automatiquement et de manière fiable le nombre de connections ouvertes simultanément par nos applications",
       "Élaboration d'un système de widgets générique permettant aux développeurs de créer des composants pouvants être facilement exportés dans d'autres modules",
       "[En cours] Conception et développement, au sein d'une équipe, d'un produit utilisant des technologies et concepts récents (SPA, API REST, Angular, webpack, material design, ES7 et méthodes AGILE)",
-      "2 présentations données dans le cadre de tech lunch organisés par l'entreprise (React & une partie du fonctionnement du framework PHP maison)"
+      "2 conférences internes données dans le cadre de tech lunch organisés par l'entreprise (React & une partie du fonctionnement du framework PHP maison)"
     ]
   }, {
     "company": "MPO Informatique",
