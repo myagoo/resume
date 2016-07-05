@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Benjamin Millagou",
-    "label": "Développeur Front",
+    "label": "Développeur FrontEnd",
     "picture": "https://yt3.ggpht.com/-Au3vV5Mfpzg/AAAAAAAAAAI/AAAAAAAAAAA/htmrqJSQPyo/s100-c-k-no/photo.jpg",
     "email": "millagou.benjamin@gmail.com",
-    "phone": "06 27 99 37 93",
+    "phone": "+336 27 99 37 93",
     "website": "",
     "summary": "Passionné du web et de programmation, j'aime autant résoudre des problèmes d'algorithmie que d'ergonomie. Au fil du temps, j'ai appris à éviter les pièges de ce langage anciennement mal aimé qu'est le JavaScript et j'en suis aujourd'hui un grand fervent.",
     "location": {
-      "address": "160 grande rue St-Michel",
-      "postalCode": "31400",
+      "address": "44 rue d'Alsace Lorraine",
+      "postalCode": "31000",
       "city": "Toulouse",
       "countryCode": "FR",
       "region": "France"
@@ -49,6 +49,19 @@
   }],
   "volunteer": [],
   "education": [{
+    "institution": "CNAM",
+    "area": "Ingénieur Informatique option architecture et ingénierie systèmes et logiciels",
+    "studyType": "Diplôme d'ingénieur",
+    "startDate": "2015",
+    "endDate": null,
+    "gpa": "",
+    "courses": [
+      "Management",
+      "RO",
+      "Réparti",
+      "Embarqué"
+    ]
+  }, {
     "institution": "IUT de Blagnac",
     "area": "Analyste Programmeur Spécialisé en Ingénierie des Objets (APSIO)",
     "studyType": "Licence Professionnelle en alternance",
@@ -93,6 +106,7 @@
     "level": "master",
     "keywords": [
       "ES[5|6|7]",
+      "TypeScript",
       "Promise",
       "Chrome DevTools"
     ]
@@ -108,14 +122,14 @@
     "name": "Librairies",
     "level": "advanced",
     "keywords": [
-      "Angular 1.13",
-      "React 0.13",
+      "Angular",
+      "React",
       "jQuery",
       "HighCharts",
       "d3",
       "leaflet",
       "react-router",
-      "Flux (reflux & flummox)",
+      "redux",
       "Immutable",
       "Symfony ",
       "ChartDirector",
