@@ -2,200 +2,193 @@
   "basics": {
     "name": "Benjamin Millagou",
     "label": "Développeur FrontEnd",
-    "picture": "https://yt3.ggpht.com/-Au3vV5Mfpzg/AAAAAAAAAAI/AAAAAAAAAAA/htmrqJSQPyo/s100-c-k-no/photo.jpg",
+    "picture":
+      "https://yt3.ggpht.com/-Au3vV5Mfpzg/AAAAAAAAAAI/AAAAAAAAAAA/htmrqJSQPyo/s100-c-k-no/photo.jpg",
     "email": "millagou.benjamin@gmail.com",
     "phone": "+336 27 99 37 93",
     "website": "",
-    "summary": "Passionné du web et de programmation, j'aime autant résoudre des problèmes d'algorithmie que d'ergonomie. Au fil du temps, j'ai appris à éviter les pièges de ce langage anciennement mal aimé qu'est le JavaScript et j'en suis aujourd'hui un grand fervent.",
+    "summary":
+      "Passionné du web et de programmation, j'aime autant résoudre des problèmes d'algorithmie que d'ergonomie. Au fil du temps, j'ai appris à éviter les pièges de ce langage anciennement mal aimé qu'est le JavaScript et j'en suis aujourd'hui un grand fervent.",
     "location": {
-      "address": "44 rue d'Alsace Lorraine",
-      "postalCode": "31000",
+      "address": "3 place Lafourcade",
+      "postalCode": "31400",
       "city": "Toulouse",
       "countryCode": "FR",
       "region": "France"
     },
-    "profiles": [{
-      "network": "Github",
-      "username": "myagoo",
-      "url": "https://github.com/myagoo"
-    }]
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "myagoo",
+        "url": "https://github.com/myagoo"
+      }
+    ]
   },
-  "work": [{
-    "company": "Living Objects",
-    "position": "Développeur Front & Back",
-    "website": "http://www.livingobjects.com/",
-    "startDate": "2011-09-20",
-    "endDate": null,
-    "summary": "Participation à l'élaboration de nombreuses applications liées à l'univers technique des fournisseurs d'accès (collecte, visualisation et analyse de compteurs issues du parc fixe et mobile de l'opérateur). J'ai été amené à réaliser un grand nombre de modules, souvent de la conception à leurs mises à jour, en passant par les réunions client, les déploiements mais encore la mise en place collecte de référentiel.",
-    "highlights": [
-      "De nombreuses compétences acquises dans des domaines variés grâce à l'hétérogéniété des projets",
-      "Plusieurs contributions sur le framework PHP maison (basé sur Symfony 2) dont la mise en place d'un système de connections partagées, ce qui a pu réduire automatiquement et de manière fiable le nombre de connections ouvertes simultanément par nos applications",
-      "Élaboration d'un système de widgets générique permettant aux développeurs de créer des composants pouvants être facilement exportés dans d'autres modules",
-      "[En cours] Conception et développement, au sein d'une équipe, d'un produit utilisant des technologies et concepts récents (SPA, API REST, Angular, webpack, material design, ES7 et méthodes AGILE)",
-      "2 conférences internes données dans le cadre de tech lunch organisés par l'entreprise (React & une partie du fonctionnement du framework PHP maison)"
-    ]
-  }, {
-    "company": "MPO Informatique",
-    "position": "Développeur Front & Back",
-    "website": "http://www.livingobjects.com/",
-    "startDate": "2010",
-    "endDate": "2011",
-    "summary": "Création d'une application web de gestion de commerce complète pour l'ouverture d'une boutique de vente et réparation de pièces informatique dans le cadre de la licence en alternance. L'application assure la gestion des clients, des stocks, de la caisse, des interventions ainsi que la création de documents comtables au format PDF",
-    "highlights": [
-      "Gestion du projet de A à Z (conception, développement, installation des serveur, installation et mise à jour de l'application)",
-      "Création du site internet de la boutique et de plaquettes publicitaires",
-      "Création d'un fork du projet pour un commerce voisin (modifications de fonctionnalités, déploiements, mais aussi formation des utilisateurs de l'application)"
-    ]
-  }],
+  "work": [
+    {
+      "company": "Living Objects",
+      "position": "Développeur Front & Back",
+      "website": "http://www.livingobjects.com/",
+      "startDate": "2011-09-20",
+      "endDate": null,
+      "summary":
+        "Participation à l'élaboration de nombreuses applications liées à l'univers technique des fournisseurs d'accès (collecte, visualisation et analyse de compteurs issues du parc fixe et mobile de l'opérateur). J'ai été amené à réaliser un grand nombre de modules, souvent de la conception à leurs mises à jour, en passant par les réunions client, les déploiements mais encore la mise en place collecte de référentiel.",
+      "highlights": [
+        "De nombreuses compétences acquises dans des domaines variés grâce à l'hétérogéniété des projets",
+
+        "Plusieurs contributions sur le framework PHP maison (basé sur Symfony 2) dont la mise en place d'un système de connections partagées, ce qui a pu réduire automatiquement et de manière fiable le nombre de connections ouvertes simultanément par nos applications",
+        "Élaboration d'un système de widgets générique permettant aux développeurs de créer des composants pouvants être facilement exportés dans d'autres modules",
+        "[En cours] Conception et développement, au sein d'une équipe que je gère aujourd'hui, d'un produit utilisant des technologies et concepts récents (SPA, API REST, Angular, webpack, material design, ES7 et méthodes AGILE)",
+        "2 conférences internes données dans le cadre de tech lunch organisés par l'entreprise (React & une partie du fonctionnement du framework PHP maison)"
+      ]
+    },
+    {
+      "company": "MPO Informatique",
+      "position": "Développeur Front & Back",
+      "website": null,
+      "startDate": "2010",
+      "endDate": "2011",
+      "summary":
+        "Création d'une application web de gestion de commerce complète pour l'ouverture d'une boutique de vente et réparation de pièces informatique dans le cadre de la licence en alternance. L'application assure la gestion des clients, des stocks, de la caisse, des interventions ainsi que la création de documents comtables au format PDF",
+      "highlights": [
+        "Gestion du projet de A à Z (conception, développement, installation des serveur, installation et mise à jour de l'application)",
+        "Création du site internet de la boutique et de plaquettes publicitaires",
+        "Création d'un fork du projet pour un commerce voisin (modifications de fonctionnalités, déploiements, mais aussi formation des utilisateurs de l'application)"
+      ]
+    }
+  ],
   "volunteer": [],
-  "education": [{
-    "institution": "CNAM",
-    "area": "Ingénieur Informatique option architecture et ingénierie systèmes et logiciels",
-    "studyType": "Diplôme d'ingénieur",
-    "startDate": "2015",
-    "endDate": null,
-    "gpa": "",
-    "courses": [
-      "Management",
-      "RO",
-      "Réparti",
-      "Embarqué"
-    ]
-  }, {
-    "institution": "IUT de Blagnac",
-    "area": "Analyste Programmeur Spécialisé en Ingénierie des Objets (APSIO)",
-    "studyType": "Licence Professionnelle en alternance",
-    "startDate": "2010",
-    "endDate": "2011",
-    "gpa": "",
-    "courses": [
-      "POO",
-      "UML",
-      "JAVA",
-      "C++"
-    ]
-  }, {
-    "institution": "Lycée Polyvalent Paul Sabatier à Carcassonne",
-    "area": "Informatique de Gestion Option dévelopement",
-    "studyType": "Brevet de Technicien Supérieur",
-    "startDate": "2008",
-    "endDate": "2010",
-    "gpa": "",
-    "courses": [
-      "SQL",
-      "HTML",
-      "VBA"
-    ]
-  }, {
-    "institution": "Lycée Polyvalent Paul Sabatier à Carcassonne",
-    "area": "Sciences & Technologies de la Gestion",
-    "studyType": "Baccalauréat",
-    "startDate": "2008",
-    "endDate": "2010",
-    "gpa": "",
-    "courses": [
-      "SQL",
-      "HTML",
-      "Excel"
-    ]
-  }],
+  "education": [
+    {
+      "institution": "CNAM",
+      "area":
+        "Ingénieur Informatique option architecture et ingénierie systèmes et logiciels",
+      "studyType": "Diplôme d'ingénieur",
+      "startDate": "2015",
+      "endDate": null,
+      "gpa": "",
+      "courses": ["Management", "RO", "Réparti", "Embarqué"]
+    },
+    {
+      "institution": "EMCI",
+      "area": "Motiver & Animer une équipe",
+      "studyType": "Formation professionnelle",
+      "startDate": "2017",
+      "endDate": "2017",
+      "gpa": ""
+    },
+    {
+      "institution": "IUT de Blagnac",
+      "area":
+        "Analyste Programmeur Spécialisé en Ingénierie des Objets (APSIO)",
+      "studyType": "Licence Professionnelle en alternance",
+      "startDate": "2010",
+      "endDate": "2011",
+      "gpa": "",
+      "courses": ["POO", "UML", "JAVA", "C++"]
+    },
+    {
+      "institution": "Lycée Polyvalent Paul Sabatier à Carcassonne",
+      "area": "Informatique de Gestion Option dévelopement",
+      "studyType": "Brevet de Technicien Supérieur",
+      "startDate": "2008",
+      "endDate": "2010",
+      "gpa": "",
+      "courses": ["SQL", "HTML", "VBA"]
+    },
+    {
+      "institution": "Lycée Polyvalent Paul Sabatier à Carcassonne",
+      "area": "Sciences & Technologies de la Gestion",
+      "studyType": "Baccalauréat",
+      "startDate": "2008",
+      "endDate": "2010",
+      "gpa": "",
+      "courses": ["SQL", "HTML", "Excel"]
+    }
+  ],
   "awards": [],
   "publications": [],
-  "skills": [{
-    "name": "JavaScript",
-    "level": "master",
-    "keywords": [
-      "ES[5|6|7]",
-      "TypeScript",
-      "Promise",
-      "Chrome DevTools"
-    ]
-  }, {
-    "name": "Autres langages",
-    "level": "advanced",
-    "keywords": [
-      "CSS (flexbox ready)",
-      "PHP",
-      "SQL"
-    ]
-  }, {
-    "name": "Librairies",
-    "level": "advanced",
-    "keywords": [
-      "Angular",
-      "React",
-      "jQuery",
-      "HighCharts",
-      "d3",
-      "leaflet",
-      "react-router",
-      "redux",
-      "Immutable",
-      "Symfony ",
-      "ChartDirector",
-      "Doctrine"
-    ]
-  }, {
-    "name": "Outils",
-    "level": "advanced",
-    "keywords": [
-      "webpack",
-      "npm",
-      "babel",
-      "git",
-      "docker",
-      "composer"
-    ]
-  }, {
-    "name": "Serveurs",
-    "level": "intermediate",
-    "keywords": [
-      "apache",
-      "[node|io].js"
-    ]
-  }, {
-    "name": "Systèmes",
-    "level": "intermediate",
-    "keywords": [
-      "Linux",
-      "Windows"
-    ]
-  }, {
-    "name": "Méthodes & Paradigmes",
-    "level": "intermediate",
-    "keywords": [
-      "Scrum",
-      "OOP",
-      "FP"
-    ]
-  }],
-  "languages": [{
-    "language": "Francais",
-    "fluency": "Natif"
-  }, {
-    "language": "Anglais",
-    "fluency": "Courant"
-  }],
-  "interests": [{
-    "name": "Games",
-    "keywords": [
-      "Team Fortress 2",
-      "Towerfall",
-      "NesBlog"
-    ]
-  }, {
-    "name": "Music",
-    "keywords": [
-      "iPod classic",
-      "lastfm.fr/user/myagoo"
-    ]
-  }, {
-    "name": "Ride",
-    "keywords": [
-      "Skate",
-      "Longboard",
-      "Cruiser"
-    ]
-  }],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "master",
+      "keywords": [
+        "ES.Next",
+        "TypeScript",
+        "Promise",
+        "Observable",
+        "Chrome DevTools"
+      ]
+    },
+    {
+      "name": "Autres langages",
+      "level": "advanced",
+      "keywords": ["CSS", "PHP", "SQL"]
+    },
+    {
+      "name": "Librairies",
+      "level": "advanced",
+      "keywords": [
+        "Angular",
+        "React",
+        "RxJS",
+        "jQuery",
+        "HighCharts",
+        "d3",
+        "leaflet",
+        "react-router",
+        "redux",
+        "Immutable",
+        "Symfony ",
+        "ChartDirector",
+        "Doctrine"
+      ]
+    },
+    {
+      "name": "Outils",
+      "level": "advanced",
+      "keywords": ["webpack", "npm", "babel", "git", "docker", "composer"]
+    },
+    {
+      "name": "Serveurs",
+      "level": "intermediate",
+      "keywords": ["apache", "[node|io].js"]
+    },
+    {
+      "name": "Systèmes",
+      "level": "intermediate",
+      "keywords": ["Linux", "Windows"]
+    },
+    {
+      "name": "Méthodes & Paradigmes",
+      "level": "intermediate",
+      "keywords": ["Scrum", "OOP", "FP"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Francais",
+      "fluency": "Natif"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Courant"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Esprit",
+      "keywords": [
+        "Musique (lastfm.fr/user/myagoo)",
+        "Literrature (SF & Essais)",
+        "Vulgarisation",
+        "Amélioration personelle"
+      ]
+    },
+    {
+      "name": "Corps",
+      "keywords": ["[Skate|Longboard|Cruiser]", "Musculation"]
+    }
+  ],
   "references": []
 }

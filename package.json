@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/myagoo/resume",
   "dependencies": {
-    "resume-cli": "0.4.13"
+    "jsonresume-theme-elegant": "^1.11.2",
+    "resume-cli": "0.4.19"
   }
 }
