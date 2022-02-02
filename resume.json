@@ -1,17 +1,15 @@
 {
   "basics": {
     "name": "Benjamin Millagou",
-    "label": "Développeur FrontEnd",
-    "picture":
-      "https://yt3.ggpht.com/-Au3vV5Mfpzg/AAAAAAAAAAI/AAAAAAAAAAA/htmrqJSQPyo/s100-c-k-no/photo.jpg",
+    "label": "Développeur Web Fullstack",
+    "picture": "https://yt3.ggpht.com/-Au3vV5Mfpzg/AAAAAAAAAAI/AAAAAAAAAAA/htmrqJSQPyo/s100-c-k-no/photo.jpg",
     "email": "millagou.benjamin@gmail.com",
-    "phone": "+336 27 99 37 93",
+    "phone": "+33 6 27 99 37 93",
     "website": "",
-    "summary":
-      "Passionné du web et de programmation, j'aime autant résoudre des problèmes d'algorithmie que d'ergonomie. Au fil du temps, j'ai appris à éviter les pièges de ce langage anciennement mal aimé qu'est le JavaScript et j'en suis aujourd'hui un grand fervent.",
+    "summary": "Passionné du web et de programmation depuis que la TI-89 est rentrée dans ma vie, j'aime autant résoudre des problèmes d'algorithmie que d'ergonomie. Je mets également un point d'honneur à approfondir et partager mes connaissances.",
     "location": {
-      "address": "3 place Lafourcade",
-      "postalCode": "31400",
+      "address": "2 impasse de la caravelle",
+      "postalCode": "31500",
       "city": "Toulouse",
       "countryCode": "FR",
       "region": "France"
@@ -26,30 +24,78 @@
   },
   "work": [
     {
+      "company": "OSO-AI",
+      "position": "Developper Web Fullstack Freelance",
+      "website": "https://oso-ai.com/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Création d'une suite d'application web ayant pour finalité la remontée d'alerte aux aides-soignant.e.s sur l'état de santé des résidents d'EHPAD",
+      "highlights": [
+        "5 projets firebase synchronisés les uns avec les autres",
+        "Mise en place d'appel vidéo d'alerte entre aide-soignant.e grâce à la technologie WebRTC"
+      ]
+    },
+    {
+      "company": "Prism.ai",
+      "position": "Developper Web Front Freelance",
+      "website": "https://www.prisme.ai/",
+      "startDate": "2019-01-01",
+      "endDate": "2019-12-31",
+      "summary": "Mise en place de l'architecture front du dashboard de gestion des chatbots",
+      "highlights": [
+        "Création d'un éditeur de texte avancé avec l'aide de la librairie draft.js",
+        "Migration de l'ancienne base de code vers une architecture moderne utilisant pleinement les fonctionnalités de React 16.8 (hooks)",
+        "Mise en place d'un design system utilisant styled-components couplé à styled-system"
+      ]
+    },
+    {
+      "company": "Overblog",
+      "position": "Développeur Web Fullstack",
+      "website": "https://www.over-blog.com/",
+      "startDate": "2018-12-10",
+      "endDate": "2021-11-08",
+      "summary": "Maintenance et développement de nouvelles fonctionnalités pour l'interface d'administration des blogs utilisée par des milliers d'internautes à travers le monde",
+      "highlights": [
+        "Intégration d'un nouveau thème mobile dans le but de moderniser l'expérience utilisateur ainsi que d'améliorer drastiquement le temps de chargement des pages vues",
+        "Élaboration et mise en place de divers mécanismes de reconnaissance et de lutte contre le spam",
+        "En fil rouge, migration de la base de code depuis des \"class componants\" vers des \"functionnal componants\"",
+        "Travail sur l'environnement de développement dockerisé"
+      ]
+    },
+    {
+      "company": "EasyMile SAS",
+      "position": "Développeur Front",
+      "website": "https://easymile.com/",
+      "startDate": "2017-03-01",
+      "endDate": "2018-11-30",
+      "summary": "Élaboration d'interfaces pour le suivi en temps réél de navettes autonomes",
+      "highlights": [
+        "Travail sur l'environnement de développement dockerisé",
+        "Tests, fonctionnels, tests unitaires et utilisation de storybook"
+      ]
+    },
+    {
       "company": "Living Objects",
-      "position": "Développeur Front & Back",
+      "position": "Développeur Web Fullstack",
       "website": "http://www.livingobjects.com/",
       "startDate": "2011-09-20",
-      "endDate": null,
-      "summary":
-        "Participation à l'élaboration de nombreuses applications liées à l'univers technique des fournisseurs d'accès (collecte, visualisation et analyse de compteurs issues du parc fixe et mobile de l'opérateur). J'ai été amené à réaliser un grand nombre de modules, souvent de la conception à leurs mises à jour, en passant par les réunions client, les déploiements mais encore la mise en place collecte de référentiel.",
+      "endDate": "2017-02-28",
+      "summary": "Participation à l'élaboration de nombreuses applications liées à l'univers technique des fournisseurs d'accès (collecte, visualisation et analyse de compteurs issues du parc fixe et mobile de l'opérateur). J'ai été amené à réaliser un grand nombre de modules, souvent de la conception à leurs mises à jour, en passant par les réunions client, les déploiements mais encore la mise en place collecte de référentiel.",
       "highlights": [
         "De nombreuses compétences acquises dans des domaines variés grâce à l'hétérogéniété des projets",
-
         "Plusieurs contributions sur le framework PHP maison (basé sur Symfony 2) dont la mise en place d'un système de connections partagées, ce qui a pu réduire automatiquement et de manière fiable le nombre de connections ouvertes simultanément par nos applications",
         "Élaboration d'un système de widgets générique permettant aux développeurs de créer des composants pouvants être facilement exportés dans d'autres modules",
-        "[En cours] Conception et développement, au sein d'une équipe que je gère aujourd'hui, d'un produit utilisant des technologies et concepts récents (SPA, API REST, Angular, webpack, material design, ES7 et méthodes AGILE)",
+        "Conception et développement, au sein d'une équipe dont j'ai été le leader technique, d'un produit utilisant des technologies et concepts récents (SPA, API REST, Angular, webpack, material design, ES7 et méthodes AGILE)",
         "2 conférences internes données dans le cadre de tech lunch organisés par l'entreprise (React & une partie du fonctionnement du framework PHP maison)"
       ]
     },
     {
       "company": "MPO Informatique",
-      "position": "Développeur Front & Back",
+      "position": "Développeur Web Fullstack",
       "website": null,
       "startDate": "2010",
       "endDate": "2011",
-      "summary":
-        "Création d'une application web de gestion de commerce complète pour l'ouverture d'une boutique de vente et réparation de pièces informatique dans le cadre de la licence en alternance. L'application assure la gestion des clients, des stocks, de la caisse, des interventions ainsi que la création de documents comtables au format PDF",
+      "summary": "Création d'une application web de gestion de commerce complète pour l'ouverture d'une boutique de vente et réparation de pièces informatique dans le cadre de la licence en alternance. L'application assure la gestion des clients, des stocks, de la caisse, des interventions ainsi que la création de documents comtables au format PDF",
       "highlights": [
         "Gestion du projet de A à Z (conception, développement, installation des serveur, installation et mise à jour de l'application)",
         "Création du site internet de la boutique et de plaquettes publicitaires",
@@ -57,17 +103,15 @@
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "CNAM",
-      "area":
-        "Ingénieur Informatique option architecture et ingénierie systèmes et logiciels",
-      "studyType": "Diplôme d'ingénieur",
+      "area": "Ingénieur Informatique option architecture et ingénierie systèmes et logiciels",
+      "studyType": "Diplôme d'ingénieur (non obtenu)",
       "startDate": "2015",
-      "endDate": null,
+      "endDate": "2017",
       "gpa": "",
-      "courses": ["Management", "RO", "Réparti", "Embarqué"]
+      "courses": ["Management", "Recherche Opérationnelle", "Applications réparties", "Systèmes embarqués"]
     },
     {
       "institution": "EMCI",
@@ -79,8 +123,7 @@
     },
     {
       "institution": "IUT de Blagnac",
-      "area":
-        "Analyste Programmeur Spécialisé en Ingénierie des Objets (APSIO)",
+      "area": "Analyste Programmeur Spécialisé en Ingénierie des Objets (APSIO)",
       "studyType": "Licence Professionnelle en alternance",
       "startDate": "2010",
       "endDate": "2011",
@@ -106,8 +149,20 @@
       "courses": ["SQL", "HTML", "Excel"]
     }
   ],
-  "awards": [],
-  "publications": [],
+  "projects": [
+    {
+      "name": "Amstangram",
+      "description": "Jeu de tangram communautaire (utilisant css-system)",
+      "type": "Jeu",
+      "website": "https://amstangr.am/"
+    },
+    {
+      "name": "css-system",
+      "description": "Librairie React pour facilement créer des primitives de design facilitant le développement d'application responsive",
+      "type": "librairie",
+      "website": "https://github.com/css-system/css-system"
+    }
+  ],
   "skills": [
     {
       "name": "JavaScript",
@@ -117,7 +172,7 @@
         "TypeScript",
         "Promise",
         "Observable",
-        "Chrome DevTools"
+        "Debugging"
       ]
     },
     {
@@ -129,8 +184,10 @@
       "name": "Librairies",
       "level": "advanced",
       "keywords": [
-        "Angular",
         "React",
+        "Apollo",
+        "Angular",
+        "Firebase",
         "RxJS",
         "jQuery",
         "HighCharts",
@@ -139,7 +196,7 @@
         "react-router",
         "redux",
         "Immutable",
-        "Symfony ",
+        "Symfony",
         "ChartDirector",
         "Doctrine"
       ]
@@ -147,12 +204,20 @@
     {
       "name": "Outils",
       "level": "advanced",
-      "keywords": ["webpack", "npm", "babel", "git", "docker", "composer"]
+      "keywords": [
+        "docker",
+        "firebase",
+        "webpack",
+        "npm",
+        "babel",
+        "git",
+        "composer"
+      ]
     },
     {
       "name": "Serveurs",
       "level": "intermediate",
-      "keywords": ["apache", "[node|io].js"]
+      "keywords": ["node|deno", "apache|nginx"]
     },
     {
       "name": "Systèmes",
@@ -162,7 +227,7 @@
     {
       "name": "Méthodes & Paradigmes",
       "level": "intermediate",
-      "keywords": ["Scrum", "OOP", "FP"]
+      "keywords": ["Debugging", "Scrum", "OOP", "FP"]
     }
   ],
   "languages": [
@@ -178,17 +243,15 @@
   "interests": [
     {
       "name": "Esprit",
-      "keywords": [
-        "Musique (lastfm.fr/user/myagoo)",
-        "Literrature (SF & Essais)",
-        "Vulgarisation",
-        "Amélioration personelle"
-      ]
+      "keywords": ["Musique", "Lecture (SF & Essais)", "Casses-tête"]
     },
     {
       "name": "Corps",
-      "keywords": ["[Skate|Longboard|Cruiser]", "Musculation"]
+      "keywords": ["Longboard downhill", "Musculation", "Escalade"]
     }
   ],
-  "references": []
+  "volunteer": [],
+  "references": [],
+  "awards": [],
+  "publications": []
 }
