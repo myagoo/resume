@@ -1,0 +1,3 @@
+J'ai commencé à coder par passion, ce qui me donne la curiosité de comprendre comment marche les outils, les plateformes et les machines que j'utilise. Mais être développeur, ce n'est pas seulement coder ou bien même débugger (qui est un art trop peu mis en avant). C'est aussi prioriser, c'est aider à la prise de décision critique, c'est traduire des contraintes techniques en terme compréhensible pour l'interlocuteur, c'est transmettre son savoir, mais également savoir faire des compromis.
+
+Mes +15 ans d'expériences m'ont appris tout cela et je souhaiterais maintenant mettre toutes mes compétences au service de votre produit et de votre équipe.
